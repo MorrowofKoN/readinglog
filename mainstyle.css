@@ -6,7 +6,7 @@
 
 * 
 {
-    background-color: mediumpurple;
+    background-color: darkgray;
     color: white;
 }
 
@@ -19,7 +19,7 @@ ol li {
 }
 
 nav {
-    background-color: black;
+    background-color: darkgray;
     color: black;
     padding-top: 15px;
 }
