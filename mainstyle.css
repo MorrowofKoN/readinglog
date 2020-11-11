@@ -4,9 +4,9 @@
     color: darkslateblue;
 }
 
-p 
+* 
 {
-    color: blue;
+    background-color: black;
 }
 
 ol li {
@@ -18,7 +18,7 @@ ol li {
 }
 
 nav {
-    background-color: aquamarine;
+    background-color: black;
     color: black;
     padding-top: 15px;
 }
