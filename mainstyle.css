@@ -10,37 +10,6 @@
     color: black;
 }
 
-ol li {
-    display: inline;
-    padding-right: 25px;
-    padding-top: 10px;
-    margin-top: 10px;
-    text-align: left;
-}
-
-nav {
-    background-color: darkgray;
-    color: black;
-    padding-top: 15px;
-}
-
-.btn {
-    font: bold 11px Atari;
-    text-decoration: none;
-    background-color: #EEEEEE;
-    color: #333333;
-    padding: 6px 10px 6px 10px;
-    border-top: 1px solid #CCCCCC;
-    border-right: 1px solid #333333;
-    border-bottom: 1px solid #333333;
-    border-left: 1px solid #CCCCCC;
-}
-
-.table {
-    display: table;
-    margin: 0 auto;
-}
-
 .banner-image {
     background-image: url("magical_library.jpg");
     height: 50%;
@@ -116,4 +85,15 @@ body {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+    border: 1px black solid;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
 }
