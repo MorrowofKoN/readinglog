@@ -40,3 +40,12 @@ nav {
     display: table;
     margin: 0 auto;
 }
+
+.banner-image {
+    background-image: url("img/magical_library.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
