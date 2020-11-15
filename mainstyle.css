@@ -87,13 +87,3 @@ body {
     display: block;
 }
 
-td, th {
-    text-align: left;
-    padding: 8px;
-    border: 1px black solid;
-}
-
-table {
-    border-collapse: collapse;
-    width: 60%;
-}
