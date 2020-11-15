@@ -49,3 +49,7 @@ nav {
     background-size: cover;
     position: relative;
 }
+
+ul li{
+    margin-bottom: 15px;
+}
