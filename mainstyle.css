@@ -4,6 +4,16 @@
     color: darkslateblue;
 }
 
+.table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+    border: 1px black solid;
+}
 * 
 {
     background-color: darkgray;
