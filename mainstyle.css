@@ -16,6 +16,11 @@ td, th {
     padding: 8px;
     border: 1px black solid;
 }
+
+h1 {
+    text-align: center;
+}
+
 * 
 {
     background-color: darkgray;
